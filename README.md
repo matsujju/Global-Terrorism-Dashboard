@@ -1,3 +1,3 @@
 # Global Terrorism Dashboard Project
 
-This repository contains files for this DAshboard.
+This repository contains files for this Dashboard.
