@@ -1,10 +1,10 @@
-# Global Terrorism Dashboard Project
+# [Global Terrorism Dashboard Project](https://terrorismglobal.herokuapp.com/)
 
 This repository contains files for this Dashboard.
 This app is made with [Dash](https://plotly.com/dash/) interactive python framework developed by [Plotly](https://plotly.com/).
 Dash is a simple and effective to bind user interface around python code.
 ## Overview -
-  * The Project is a Dashboard built for getting proper data insight through interactive visualization.
+  * The Project is a [Dashboard](https://terrorismglobal.herokuapp.com/) built for getting proper data insight through interactive visualization.
   * This is built around the [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd) (GTD) and more about the [data](https://www.start.umd.edu/gtd/), it's collection methodology, definitions, and coding schema can be found [here](https://start.umd.edu/gtd/downloads/Codebook.pdf).
   * The Project includes Terrorism activities around the world reported between [1970-2017] with more than 180,000 incidents.
 
