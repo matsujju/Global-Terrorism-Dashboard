@@ -1,7 +1,9 @@
 # Global Terrorism Dashboard Project
 
 This repository contains files for this Dashboard.
-This app is made with Dash interactive python framework developed by [Plotly](https://plotly.com/)
+
+This app is made with Dash interactive python framework developed by [Plotly](https://plotly.com/).
+
 Dash is a simple and effective to bind user interface around python code.
 
 - Overview:
