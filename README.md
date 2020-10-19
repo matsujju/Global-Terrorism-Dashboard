@@ -1,4 +1,4 @@
-# [Global Terrorism Dashboard Project](https://terrorismglobal.herokuapp.com/)
+# [Global Terrorism Dashboard](https://terrorismglobal.herokuapp.com/)
 
 This repository contains files for this Dashboard.
 This app is made with [Dash](https://plotly.com/dash/) interactive python framework developed by [Plotly](https://plotly.com/).
