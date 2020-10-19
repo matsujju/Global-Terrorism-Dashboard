@@ -20,14 +20,12 @@ fig1 = px.line(
     y=terror_region.columns,
     title=f"<b>Affected region over years</b>",
     labels=dict(value="Attacks"),
-    # animation_frame=terror_region.index,
+    
 )
 
 fig1.update_layout(
     legend=dict(
-        #     x=0.05,
-        #     y=1.08,
-        #     traceorder="normal",
+        
         font=dict(family="sans-serif", size=10, color="black"),
     ),
     title=dict(
