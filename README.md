@@ -7,6 +7,7 @@ Dash is a simple and effective to bind user interface around python code.
   * The Project is a [Dashboard](https://terrorismglobal.herokuapp.com/) built for getting proper data insight through interactive visualization.
   * This is built around the [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd) (GTD) and more about the [data](https://www.start.umd.edu/gtd/), it's collection methodology, definitions, and coding schema can be found [here](https://start.umd.edu/gtd/downloads/Codebook.pdf).
   * The Project includes Terrorism activities around the world reported between [1970-2017] with more than 180,000 incidents.
+  * This Project is more of the extension of the [Jupyter notebook](https://github.com/matsujju/Global-Terrorism-EDA) where more exploratory data analysis is done and can be found if interested.
 
 - Important highlights :
   * Geography: Worldwide
